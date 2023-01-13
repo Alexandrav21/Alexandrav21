@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-###                                                    ** I am Alexandra** 👋
+###                                                    ** I am Alexandra** 👩🏼‍💻
 
 - 🧚🏼‍♀️ I am a software engineer apprentice.
 - 🦄 I am training to become a **Full-stack software engineer**.
