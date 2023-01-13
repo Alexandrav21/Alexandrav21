@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there, I am Alexandra 👋
 
-###                                                    ** I am Alexandra** 👩🏼‍💻
+                                           
 
-- 🧚🏼‍♀️ I am a software engineer apprentice.
+- 🧚🏼‍♀️ I am a **software engineer apprentice**.
 - 🦄 I am training to become a **Full-stack software engineer**.
 - 🦋 My focus is on **JavaScript/TypeScript**, **Python**, **Ruby**, and hopefully **Swift** soon.
 - ⚡️ I’m interested in **Web development**, **Mobile app development**, and **Artificial intelligence**.
